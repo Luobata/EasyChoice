@@ -1,0 +1,11 @@
+.txt_check{
+	margin-top: 25px;
+	margin-left: 30px;
+}
+.txt_check input{
+	float: left;
+}
+.txt_check p{
+	margin-left: 22px;
+	font-family:microsoft yahei;
+}

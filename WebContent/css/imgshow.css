@@ -1,0 +1,47 @@
+.img_show{
+	width:72px;
+	height: 92px; 
+	background-size: contain;
+	background-repeat: no-repeat; 
+	background-position: center;
+	border: 1px;
+	border-color: #ccc;
+	border-style: solid;
+}
+.colum{
+	height: 43px;
+	width: 30%;
+	background-color: #7ce1f7;
+	position:absolute;
+	left:35%;
+	bottom:0;
+	
+}
+.img_title{
+	font-family:microsoft yahei;
+	color:#7ce1f7;
+	text-align: center;
+	margin-top:8px;
+}
+.img_discuss{
+	border-bottom: 1px;
+	border-bottom-style: solid;
+	height: 22px;
+	font-family: microsoft yahei;
+	color:#7ce1f7;
+	font-size: 14px;
+}
+.discuss{
+	margin-top:10px;
+}
+.colum_content{
+	height:100px;
+	position:relative;
+}
+.result_content{
+	margin-right:14px;
+}
+table{
+	border-collapse: collapse;
+	border-spacing: 0px;
+}
